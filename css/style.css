@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1008px;
+}
+
+.header {
+    background-color: #02918c;
+    height: 62px;
+}
+
+.img_logo {
+    margin-top: 20px;
+}
+
+.img_promo {
+    width: 100%;
+
+}
+
+.aboutme {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.header1_aboutme {
+    color: #02918c;
+    text-align: center;
+    font-weight: 1000;
+   
+}
+
+.text_aboutme {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    line-height: 30px;
+    color: #7e8287;
+    text-align: center;
+    font-weight: 200;
+    height: 100px;
+}
+
+.aspects_aboutme{
+    margin-top: 40px; 
+    padding-bottom: 200px;
+}
+.aspects_subheader {
+    line-height: 30px;
+    color: #7e8287;
+    font-weight: 100;
+    text-align: center;
+    height: 50px;
+}
+.aspect_text {
+    line-height: 20px;
+    color: #7e8287;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+    font-size: medium;
+}
+
+.box_aboutme {
+    float: left;
+    width: 23%;
+    margin-right: 2%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.footer {
+    background-color: #000;
+    padding-top: 79px;
+}
+
+
+.text_footer {
+    text-align: center;
+    color: #7e8287;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
